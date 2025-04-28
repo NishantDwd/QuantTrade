@@ -1,4 +1,4 @@
-# Deribit API Trading System (Quant Trade) in C++
+# Deribit API Trading System (QuantTrade) in C++
 
 This project is a trading system built in C++ for interacting with the Deribit Test API. It allows you to place, cancel, modify orders, view the order book, and retrieve current position details on the Deribit platform(https://test.deribit.com/). The project uses `cURL` for HTTP requests and `nlohmann/json` for JSON parsing.
 
